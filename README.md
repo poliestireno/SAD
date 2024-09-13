@@ -1,4 +1,4 @@
-# SAD
+# SAD (Seguridad y alta disponibilidad)
 ## Presentación e índice
 * Introducción a la seguridad informática
 * Seguridad y ciberseguridad
